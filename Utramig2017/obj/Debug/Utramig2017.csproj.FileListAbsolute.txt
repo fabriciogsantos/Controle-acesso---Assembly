@@ -1,0 +1,13 @@
+E:\utramig\feira_2017\sistema_pc\Utramig2017\Utramig2017\bin\Debug\Utramig2017.exe
+E:\utramig\feira_2017\sistema_pc\Utramig2017\Utramig2017\bin\Debug\Utramig2017.pdb
+E:\utramig\feira_2017\sistema_pc\Utramig2017\Utramig2017\obj\Debug\Utramig2017.csprojResolveAssemblyReference.cache
+E:\utramig\feira_2017\sistema_pc\Utramig2017\Utramig2017\obj\Debug\MainWindow.g.cs
+E:\utramig\feira_2017\sistema_pc\Utramig2017\Utramig2017\obj\Debug\App.g.cs
+E:\utramig\feira_2017\sistema_pc\Utramig2017\Utramig2017\obj\Debug\Utramig2017_MarkupCompile.cache
+E:\utramig\feira_2017\sistema_pc\Utramig2017\Utramig2017\obj\Debug\Utramig2017_MarkupCompile.lref
+E:\utramig\feira_2017\sistema_pc\Utramig2017\Utramig2017\obj\Debug\MainWindow.baml
+E:\utramig\feira_2017\sistema_pc\Utramig2017\Utramig2017\obj\Debug\Utramig2017.g.resources
+E:\utramig\feira_2017\sistema_pc\Utramig2017\Utramig2017\obj\Debug\Utramig2017.Properties.Resources.resources
+E:\utramig\feira_2017\sistema_pc\Utramig2017\Utramig2017\obj\Debug\Utramig2017.csproj.GenerateResource.Cache
+E:\utramig\feira_2017\sistema_pc\Utramig2017\Utramig2017\obj\Debug\Utramig2017.exe
+E:\utramig\feira_2017\sistema_pc\Utramig2017\Utramig2017\obj\Debug\Utramig2017.pdb
